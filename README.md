@@ -16,4 +16,4 @@
 </ol>
 </p>
 
-<p><small>Try use jpg images only</small></p>
+<p><i>Try to use jpg images only</i></p>
