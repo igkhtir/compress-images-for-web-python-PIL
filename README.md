@@ -12,6 +12,8 @@
   <li>Create two directories: <strong>wrong_img</strong> and <strong>normal_img</strong></li>
   <li>Wrong files put into <strong>wrong_img</strong> directory</li>
   <li>Start script</li>
-  <li>The normalized file will appear in the <strong>normal_img</strong> directory.</li>
+  <li>The normalized jpg file will appear in the <strong>normal_img</strong> directory.</li>
 </ol>
 </p>
+
+<p><small>Try use jpg images only</small></p>
