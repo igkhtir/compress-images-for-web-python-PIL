@@ -9,9 +9,9 @@
 </ol>
 <p>Work:</p>
 <ol>
-  <li>Create two directories: **wrong_img** and **normal_img**</li>
-  <li>Wrong files put into **wrong_img** directory</li>
+  <li>Create two directories: <strong>wrong_img</strong> and <strong>normal_img</strong></li>
+  <li>Wrong files put into <strong>wrong_img</strong> directory</li>
   <li>Start script</li>
-  <li>The normalized file will appear in the **normal_img** directory.</li>
+  <li>The normalized file will appear in the <strong>normal_img</strong> directory.</li>
 </ol>
 </p>
